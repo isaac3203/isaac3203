@@ -57,7 +57,7 @@
 
 ### 第二章 · 作品
 
-四个项目，一个月，零编程基础。
+五个项目，一个月，零编程基础。
 
 <br>
 
@@ -118,6 +118,23 @@
 <br><br>
 <sub>企业与科研平台的合作匹配工具<br>加速研发需求的对齐与沟通</sub>
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🎬 card.yitu.chat**
+<br>
+<sub>「航行日志」— 思维卡片记录</sub>
+<br><br>
+<a href="https://card.yitu.chat">
+<img src="https://img.shields.io/badge/访问-card.yitu.chat-A8DADC?style=for-the-badge&labelColor=E0F4F5" />
+</a>
+<br><br>
+<sub>六张卡片一轮航行<br>问题是罗盘，Card 是思考的支票<br>记录独自航行的证明</sub>
+
+</td>
+<td align="center" width="50%">
 </td>
 </tr>
 </table>
